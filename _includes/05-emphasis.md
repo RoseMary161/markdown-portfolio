@@ -1,0 +1,6 @@
+- **Food**
+  - _Spanish Cuisine_
+  - _French Cuisine_
+  - _Asian Cuisine_
+- **Art & Design** 
+- __Travels__
