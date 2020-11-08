@@ -1,8 +1,6 @@
-**Mediterranean food**
-
-_Fruits legumes_
-
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
+- **Food**
+  - _Spanish Cuisine_
+  - _French Cuisine_
+  - _Asian Cuisine_
+- **Art & Design** 
+- __Travels__
